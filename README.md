@@ -16,10 +16,8 @@
  <img src="https://user-images.githubusercontent.com/957189/82269219-54a44180-9947-11ea-8395-3f77c97b3a72.jpg"/>
 
 <h3  ::Tela de Login ::</h3>
-
-- Busca o Ip e Mac do computador
 </h4>
-
+- Busca o Ip e Mac do computador
 
 <h3 align="center"> :: Tela Principal :: </h3>
 <h4 align="center">
@@ -69,26 +67,3 @@
 2. Use o arquivo .sql do projeto e deixe rodando
 
 3. Configure o ip do localhost em  connection/ConnectionFactory para comunicar com o MySqL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
